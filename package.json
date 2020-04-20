@@ -1,0 +1,14 @@
+{
+  "name": "koaflow-test",
+  "version": "0.0.9",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "supertest": "^4.0.2",
+    "colors": "^1.4.0"
+  }
+}
